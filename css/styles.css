@@ -1,18 +1,18 @@
-/* Base Styles */
+﻿/* Base Styles */
 
 * {
 	box-sizing: border-box;
 }
 
 h1 {
-	font-family: "Lucida Console", "Courier New", monospace;
+	font-family: Brushstroke, fantasy;
 	color: #000000;
 	text-align: center;
 }
 
 body {
-	background-image: url("download.jpg");
-	background-color: #ffb514;
+	background-image: url("blackbg.jpg");
+	background-color: #D3D3D3;
 
 }
 
@@ -35,7 +35,7 @@ section {
 	background-color: #00FF99;
 	width: 100%;
 	height: 200px;
-	font-family: Georgia, sans-serif;
+	font-family: Helvetica, sans-serif;
 	color: black;
 	position: relative;
 	overflow: auto;
@@ -43,10 +43,10 @@ section {
 
 #chicken {
 	border: 1px solid black;
-	text-align: center;
+	text-align: left;
 	width: 30%;
 	margin-left: 70%;
-	font-family: Times New Roman, serif;
+	font-family: Helvetica, sans-serif;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
@@ -60,13 +60,13 @@ section {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-	font-family: Alatsi;
+	font-family: Georgia, sans-serif;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #ffb514;
+	background-color: #FF1439;
 }
 
 #sushi {
@@ -74,7 +74,7 @@ section {
 	text-align: right;
 	width: 30%;
 	margin-left: 70%;
-	font-family: Times New Roman, sans-serif;
+	font-family: Georgia, sans-serif;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
